@@ -1,0 +1,153 @@
+{
+  "sections": {
+    "slideshow_wxgiCr": {
+      "type": "slideshow",
+      "blocks": {
+        "image_GQK3xb": {
+          "type": "image",
+          "settings": {
+            "title": "College Collections",
+            "text": "Say goodbye to boring apparel",
+            "first_button_label": "Shop now",
+            "first_button_link": "shopify:\/\/collections\/all",
+            "second_button_label": "Learn more",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#262428",
+            "image_overlay_opacity": 0,
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#242424"
+          }
+        },
+        "image_WNTUGJ": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your \ntop earners",
+            "text": "Showcase key products or collections to maximise your profits",
+            "first_button_label": "Shop now",
+            "first_button_link": "shopify:\/\/collections\/all",
+            "second_button_label": "Learn more",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#262428",
+            "image_overlay_opacity": 0,
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#242424"
+          }
+        }
+      },
+      "block_order": [
+        "image_GQK3xb",
+        "image_WNTUGJ"
+      ],
+      "disabled": true,
+      "settings": {
+        "slide_transition_delay": 6,
+        "slide_navigation_style": "bars",
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "desktop_height": "large",
+        "mobile_height": "extra_large"
+      }
+    },
+    "main": {
+      "type": "template--page",
+      "disabled": true,
+      "settings": {
+        "page_title_enabled": true,
+        "page_width": "full-width"
+      }
+    },
+    "text_adverts_xxwaE9": {
+      "type": "text-adverts",
+      "blocks": {
+        "text_4akYY6": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        },
+        "text_EEMp66": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        },
+        "text_TCqizx": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_4akYY6",
+        "text_EEMp66",
+        "text_TCqizx"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "colors": "light"
+      }
+    },
+    "rich_text_dn48kx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rTFPd9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Privacy Policy",
+            "heading--text-size": 50
+          }
+        },
+        "richtext_J7HfyQ": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>This Privacy Policy sets out how Crew Dog uses and protects any information that you give Crew Dog when you use this website.<\/p><p>Crew Dog is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this policy.<\/p><p>Crew Dog may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. You agree that each time that you use the Site and Services and you are bound by any such changes. This policy is effective from May 16th, 2024.<\/p><h3>What we collect<\/h3><p>We collect several types of information from and about users of our Website, including:<\/p><ul><li>Identifiers, such as name, postal address, e-mail address, telephone number, IP address, information that is about you but individually does not identify you; and\/or or any other identifier by which you may be contacted online or offline. You may also provide this information by contacting us directly in some cases. We may also ask you to send us additional information or to answer additional questions to help verify your information.<\/li><li>Financial Information that you voluntarily provide us with when doing things such as fulfilling orders, process payments, to fulfill your requests, and to contact you or the product recipient(s) in the event of order or delivery difficulties.<\/li><li>Commercial Information, such as records or products or services purchased, obtained or considered, when you voluntarily provide us with this information. We use that information to fulfill Orders, to fulfill your requests, to contact you or the product recipient(s) in the event of order or delivery difficulties, and to send communications regarding our Products, services, and promotions.<\/li><li>Network Activity Information, such as browsing history, device type, browser type, IP address, search history, a consumer’s interaction information, information about your internet connection, the equipment you use to access our Website, and usage details in order to see which areas of our Website are most visited and to analyze and improve the quality of your online experience by providing more of the most visited and desired features and services to give our customers a fulfilling shopping experience. When you use the Site, our servers may automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. User inputted Site search data may be recorded and stored for research purposes and\/or to help resolve possible technical issues which may in turn link a user ID to the performed search. We may present links in a format that enables us to keep track of whether these links have been followed.<\/li><li>Classification Information, including demographic information such as birth date, age, and gender, when you establish an account or take a survey.<\/li><li>Employment Related Information, such as name, job title, education, other professional or employment-related information, and contact details will be collected if you apply for a job and voluntarily provide information If you want to work for us, you can submit a curriculum vitae or resume online and fill out an application.<\/li><li>Inferences drawn from any of these personal information categories to create for your reflecting your preferences, characteristics, psychological trends, predisposing, behaviors, attitudes, intelligence, abilities and\/or aptitude.<\/li><li>Other Information You Knowingly Provide Us Through the Site or Services – When you submit information through the Site or in other interactions with us (e.g., phone calls), we may store that information and also collect and store metadata about that information. We do not screen for personally identifying information; to the extent you have included any such information in your submissions, it will be stored and disclosed in the course of our general use of such information.<\/li><li>Information Obtained from Third Parties – We may obtain information about you from third parties to verify the information you provide. We also may obtain information from third parties in connection with providing the Services to you.<\/li><li>Information About Your Use of The Service – When you use the Services, we collect information about your interaction with the Site for various purposes, described herein. This includes:<\/li><\/ul><h3>What do we use your information for?<\/h3><ul><li>To Process Transactions – We use your personal and financial information for billing purposes and to fill your order(s). If we have trouble processing an order, we will use this information to contact you. In order to fulfill your order(s) we may share personally identifiable information with certain third party providers. We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services.<\/li><li>To Improve Our Site and Services – We continually update and improve our website and Services based on the information and feedback we receive from you. Your information also helps us better respond to and tailor our Site and Services to your individual needs.<\/li><li>To Promote Our Services and to Provide Additional Information – The email address, telephone number, and other Identifiers you provide for either registration purposes or order fulfillment purposes may be used to send you information about this website, your account, and\/or any products or services that you request from us, in addition to occasional news, updates, related product or service information (including, but not limited to sharing such non-specific information with third parties), etc. Users may opt in to receive promotional communications from Crew Dog. Users may opt out of receiving emails from Crew Dog by clicking the corresponding “unsubscribe” link found in each and every communication sent from Crew Dog. Even the event you opt out, Crew Dog may still contact you for billing purposes and to fulfill your orders.<\/li><li>To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.<\/li><li>To present our Website and its contents to you.<\/li><li>To fulfill any other purpose for which you provide it.<\/li><li>In any other way we may describe when you provide the information.<\/li><li>For any other purpose with your consent.<\/li><li>We will not disclose or sell personally identifiable data to third parties, except as necessary to provide the services. If you do not want your non-personally identifying data shared, you may write to us as customerservice<a>@crew-dog.com<\/a>. You understand and agree that any decision you make to withhold any information from Crew Dog may prevent Crew Dog from being able to fulfill your request, your order and\/or impair your ability to utilize all functionality of the Site.<\/li><\/ul><h3>How do we protect your information?<\/h3><p>The security of your personal information is important to us. Crew Dog has implemented various security features to help prevent any unauthorized release of personal information. Our features include technical and physical security measures to guard against unauthorized access to systems where we store personal data. When you enter sensitive information (such as credit card number and\/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). Be advised that while Crew Dog has endeavored to make a secure reliable Site for its users, the privacy and confidentiality of communications transmitted to\/from Crew Dog via this Site or through email cannot be guaranteed. As such, Crew Dog is not held responsible for the security of any data transmitted via the Internet to\/from our website.<\/p><p>The security of your account also depends on keeping your account password confidential and you should not share your account name or password with anyone. If you do share your account information with a third party, they will have access to your account and your personal information.<\/p><h3>Text Messages<\/h3><p>You may elect to receive text messages from us. When you sign up to receive text messages, we will send you information about promotional offers and more. These messages may use information automatically collected based on your actions while on our sites and may prompt messaging such as cart abandon messages. To the extent you voluntarily opt to have Text notifications sent directly to your mobile phone, we receive and store the information you provide, including your telephone number or when you read a text message. You may opt out of receiving text messages at any time by texting “STOP” to our text messages. For more information about text messages, see our Terms of Use.<\/p>",
+            "text_size": 14
+          }
+        }
+      },
+      "block_order": [
+        "heading_rTFPd9",
+        "richtext_J7HfyQ"
+      ],
+      "settings": {
+        "section_width": "full-width",
+        "text_alignment_desktop": "left",
+        "text_alignment_mobile": "left",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "colors": "white"
+      }
+    }
+  },
+  "order": [
+    "slideshow_wxgiCr",
+    "main",
+    "text_adverts_xxwaE9",
+    "rich_text_dn48kx"
+  ]
+}

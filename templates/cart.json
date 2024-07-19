@@ -1,0 +1,27 @@
+{
+  "sections": {
+    "main": {
+      "type": "template--cart",
+      "settings": {}
+    },
+    "f8c9e0ed-5b0f-4193-b0fa-7cff1865381a": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "description": "",
+        "show_view_all": false,
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "layout_style": "slider",
+        "products_to_show": 8,
+        "grid-desktop": 4,
+        "grid-mobile": "2",
+        "colors": "light"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f8c9e0ed-5b0f-4193-b0fa-7cff1865381a"
+  ]
+}

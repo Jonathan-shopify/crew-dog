@@ -1,0 +1,42 @@
+<ul{% if class != blank %} class="{{ class }} nav-link-animated"{% endif %}>
+  {% for link in menu.links %}
+    {%- comment %}<locksmith:c0ec>{% endcomment -%}
+      {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: link, subject_parent: menu, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
+    {%- comment %}</locksmith:c0ec>{% endcomment -%}
+    {% if link.links != blank %}
+      <li>
+        <a href="{{ link.url }}">{{ link.title }}</a>
+        <ul>
+          {% for sub_link in link.links %}
+            {%- comment %}<locksmith:5e39>{% endcomment -%}
+              {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: sub_link, subject_parent: link, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
+            {%- comment %}</locksmith:5e39>{% endcomment -%}
+            {% if sub_link.levels > 0 %}
+              <li>
+                <a href="{{ sub_link.url }}">{{ sub_link.title | escape }}</a>
+                <ul>
+                  {% for sub_sub_link in sub_link.links %}
+                    {%- comment %}<locksmith:e61f>{% endcomment -%}
+                      {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: sub_sub_link, subject_parent: sub_link, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
+                    {%- comment %}</locksmith:e61f>{% endcomment -%}
+                    <li>
+                      <a href="{{ sub_sub_link.url }}">{{ sub_sub_link.title | escape }}</a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </li>
+            {% else %}
+              <li>
+                <a href="{{ sub_link.url }}">{{ sub_link.title | escape }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </li>
+    {% else %}
+      <li>
+        <a href="{{ link.url }}">{{ link.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

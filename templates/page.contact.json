@@ -1,0 +1,251 @@
+{
+  "sections": {
+    "72ac6be4-8c86-455d-ab4d-80b4ffea5e0e": {
+      "type": "template--product--info-columns",
+      "blocks": {
+        "template--16327181435045__72ac6be4-8c86-455d-ab4d-80b4ffea5e0e-image_and_text-2": {
+          "type": "image_and_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/C79F0066-00B6-48D7-9137-1ABA838043B1.heic",
+            "grid_image_size": "natural",
+            "heading": "Step 1",
+            "text": "<p>Share your unique vision with us for a custom design tailored to your needs.<\/p>",
+            "button_text": "Learn more",
+            "button_link": ""
+          }
+        },
+        "c3a70509-5ff5-40af-8cd4-8ab177cf6a4d": {
+          "type": "image_and_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/B32376A4-AC16-4BB4-87D1-613D01ABE5A8.heic",
+            "grid_image_size": "natural",
+            "heading": "Step 2",
+            "text": "<p>Our design team will provide you with a preliminary sketch to visualize your idea.<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "7703f9ae-7bb1-4675-82dd-011b8963bda7": {
+          "type": "image_and_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AC731B2C-166A-48E1-98E0-2B4FFDBCEB6A.heic",
+            "grid_image_size": "natural",
+            "heading": "Step 3",
+            "text": "<p>Collaborate with our design team to refine and perfect the details of your custom design.<\/p>",
+            "button_text": "Learn more",
+            "button_link": ""
+          }
+        },
+        "eecde486-3ceb-4b7f-b9b6-d594c77294e8": {
+          "type": "image_and_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/C08D7E03-455D-4CDB-950E-78C563C9C22A.heic",
+            "grid_image_size": "natural",
+            "heading": "Step 4",
+            "text": "<p>Once finalized, we will begin production, with delivery with in 2 weeks of payment<\/p>",
+            "button_text": "Learn more",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16327181435045__72ac6be4-8c86-455d-ab4d-80b4ffea5e0e-image_and_text-2",
+        "c3a70509-5ff5-40af-8cd4-8ab177cf6a4d",
+        "7703f9ae-7bb1-4675-82dd-011b8963bda7",
+        "eecde486-3ceb-4b7f-b9b6-d594c77294e8"
+      ],
+      "settings": {
+        "title": "The design process",
+        "description": "<p>Delivery with in 6-8 days following payment. <\/p>",
+        "buttons_style": "underlined",
+        "columns_per_row": 4,
+        "text_alignment": "center",
+        "vertical_alignment": "top",
+        "section_padding_top": 20,
+        "section_padding_bottom": 20,
+        "colors": "light"
+      }
+    },
+    "057a50d5-3fee-4ea2-a832-2d38f47b959a": {
+      "type": "contact-form",
+      "blocks": {
+        "template--14753984643142__057a50d5-3fee-4ea2-a832-2d38f47b959a-16788945317184afd8-0": {
+          "type": "name_input",
+          "settings": {
+            "required": true,
+            "input_width": "full"
+          }
+        },
+        "template--14753984643142__057a50d5-3fee-4ea2-a832-2d38f47b959a-16788945317184afd8-1": {
+          "type": "email_input",
+          "settings": {
+            "required": true,
+            "input_width": "partial"
+          }
+        },
+        "custom_input_cfhUNq": {
+          "type": "custom_input",
+          "settings": {
+            "placeholder": "School",
+            "required": false,
+            "input_width": "partial"
+          }
+        },
+        "fbb2a872-0770-4f56-913c-b7853e33a9c0": {
+          "type": "custom_input",
+          "settings": {
+            "placeholder": "Team\/Org\/Club Name",
+            "required": false,
+            "input_width": "full"
+          }
+        },
+        "template--14753984643142__057a50d5-3fee-4ea2-a832-2d38f47b959a-16788945317184afd8-3": {
+          "type": "message_input",
+          "settings": {
+            "required": false,
+            "input_width": "full"
+          }
+        }
+      },
+      "block_order": [
+        "template--14753984643142__057a50d5-3fee-4ea2-a832-2d38f47b959a-16788945317184afd8-0",
+        "template--14753984643142__057a50d5-3fee-4ea2-a832-2d38f47b959a-16788945317184afd8-1",
+        "custom_input_cfhUNq",
+        "fbb2a872-0770-4f56-913c-b7853e33a9c0",
+        "template--14753984643142__057a50d5-3fee-4ea2-a832-2d38f47b959a-16788945317184afd8-3"
+      ],
+      "settings": {
+        "form_width": "narrow",
+        "title": "Request a design",
+        "description": "<p>Tell us exactly what you want<\/p>",
+        "section_padding_top": 0,
+        "section_padding_bottom": 5,
+        "section_color_scheme": "light"
+      }
+    },
+    "testimonials_wFQ63B": {
+      "type": "testimonials",
+      "blocks": {
+        "text_eGN8k3": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>\"Everytime our club soccer team travels for away games we get asked where our hoodies are from. (It’s so nice to have interesting team merch for once.) When we went to visit Brown, both of our teams wore Crew Dog and there was something so united about that feeling.\"<\/p>",
+            "customer_name": "Brown club soccer",
+            "link": "",
+            "stars": 5
+          }
+        },
+        "text_N3dfwz": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>“Every time I wore my Princeton Crew Dog sweater to a regatta I would have so many people come up to me and ask where I got it! I always referred them to you because they are so cute”<\/p>",
+            "customer_name": "Princeton crew",
+            "link": "",
+            "stars": 5
+          }
+        },
+        "text_eEM9wL": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>\"Crew Dog helped me create a mascot for our team (which was much trickier than we thought). The design and ordering process was collaborative and straightforward, the founders are both Yale students and understand the collegiate clothing space”<\/p>",
+            "customer_name": "ut Austin dance team",
+            "link": "",
+            "stars": 5
+          }
+        },
+        "text_m8fyTe": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>\"This was the first time our crew team had a custom design made for them beyond the boring college-provided stuff. We are super happy and appreciate you guys working with smaller teams\"<\/p>",
+            "customer_name": "LEEDS CREW TEAM",
+            "link": "",
+            "stars": 5
+          }
+        }
+      },
+      "block_order": [
+        "text_eGN8k3",
+        "text_N3dfwz",
+        "text_eEM9wL",
+        "text_m8fyTe"
+      ],
+      "settings": {
+        "circle_images": true,
+        "title": "Testimonials",
+        "description": "",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "colors": "white"
+      }
+    },
+    "accordion_P4bb4n": {
+      "type": "accordion",
+      "blocks": {
+        "tab_content_cYxjy6": {
+          "type": "tab_content",
+          "settings": {
+            "question": "How to order",
+            "text": "<p>To place an order, simply browse our collection, select your desired items, and proceed to checkout. If you have any specific customization requests, you can provide them during the checkout process.<\/p>"
+          }
+        },
+        "tab_content_YJ483Y": {
+          "type": "tab_content",
+          "settings": {
+            "question": "How can I pay",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "tab_content_RhhN43": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Returns and exchanges",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "tab_content_MagXgf": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Bulk orders",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "tab_content_NmmNaK": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Pricing",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        },
+        "tab_content_RGQ9hw": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Customization",
+            "text": "<p>Here you can place an explanation or answer to the question.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "tab_content_cYxjy6",
+        "tab_content_YJ483Y",
+        "tab_content_RhhN43",
+        "tab_content_MagXgf",
+        "tab_content_NmmNaK",
+        "tab_content_RGQ9hw"
+      ],
+      "settings": {
+        "title": "Frequently asked questions",
+        "description": "",
+        "faq_icon": "plus_minus",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "colors": "white"
+      }
+    }
+  },
+  "order": [
+    "72ac6be4-8c86-455d-ab4d-80b4ffea5e0e",
+    "057a50d5-3fee-4ea2-a832-2d38f47b959a",
+    "testimonials_wFQ63B",
+    "accordion_P4bb4n"
+  ]
+}

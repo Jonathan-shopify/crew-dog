@@ -1,0 +1,43 @@
+<style type="text/css">
+    {% for block in section.blocks %}
+      {% if block.settings.image != blank %}
+        {% capture background %}url({{ block.settings.image | img_url: '100x' }}) no-repeat center{% endcapture %}
+      {% else %}
+      {% capture background %}{{ block.settings.color }}{% endcapture %}
+      {% endif %}
+      .color-{{ block.settings.title | handleize }}{
+        background: {{ background }};
+      }
+    {% endfor %}
+  </style>
+  {% schema %}
+  {
+      "name": "Product swatches",
+      "settings": [
+          ],
+          "blocks": [
+              {
+                  "type": "color_swatches",
+                  "name": "Color Swathes",
+                  "settings": [
+                      {
+                          "type": "text",
+                          "id": "title",
+                          "label": "Color name"
+                      },
+                      {
+                          "type": "color",
+                          "id": "color",
+                          "label": "Swatch color"
+                      },
+                      {
+                          "type": "image_picker",
+                          "id": "image",
+                          "label": "Swatch pattern",
+                          "info": "Will override any color settings above to show this image"
+                      }
+                  ]
+              }
+          ]
+  }
+  {% endschema %}

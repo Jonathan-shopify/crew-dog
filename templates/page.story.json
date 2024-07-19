@@ -1,0 +1,153 @@
+{
+  "sections": {
+    "slideshow_wxgiCr": {
+      "type": "slideshow",
+      "blocks": {
+        "image_GQK3xb": {
+          "type": "image",
+          "settings": {
+            "title": "College Collections",
+            "text": "Say goodbye to boring apparel",
+            "first_button_label": "Shop now",
+            "first_button_link": "shopify:\/\/collections\/all",
+            "second_button_label": "Learn more",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#262428",
+            "image_overlay_opacity": 0,
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#242424"
+          }
+        },
+        "image_WNTUGJ": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your \ntop earners",
+            "text": "Showcase key products or collections to maximise your profits",
+            "first_button_label": "Shop now",
+            "first_button_link": "shopify:\/\/collections\/all",
+            "second_button_label": "Learn more",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#262428",
+            "image_overlay_opacity": 0,
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#242424"
+          }
+        }
+      },
+      "block_order": [
+        "image_GQK3xb",
+        "image_WNTUGJ"
+      ],
+      "disabled": true,
+      "settings": {
+        "slide_transition_delay": 6,
+        "slide_navigation_style": "bars",
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "desktop_height": "large",
+        "mobile_height": "extra_large"
+      }
+    },
+    "main": {
+      "type": "template--page",
+      "disabled": true,
+      "settings": {
+        "page_title_enabled": true,
+        "page_width": "full-width"
+      }
+    },
+    "text_adverts_xxwaE9": {
+      "type": "text-adverts",
+      "blocks": {
+        "text_4akYY6": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        },
+        "text_EEMp66": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        },
+        "text_TCqizx": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_4akYY6",
+        "text_EEMp66",
+        "text_TCqizx"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "colors": "light"
+      }
+    },
+    "rich_text_dn48kx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rTFPd9": {
+          "type": "heading",
+          "settings": {
+            "heading": "OUR BRAND",
+            "heading--text-size": 44
+          }
+        },
+        "richtext_J7HfyQ": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>Crew Dog is a design and apparel brand founded at Yale University by two students. The brand is known for bridging worlds. Whether it's preppy and casual - luxury and inexpensive - unity and community. The brand's name originates from our inaugural design featuring a bulldog holding a rowing oar, created specifically for the crew team.<\/p><p>Crew Dog began to create an alternative to Yale's college clothing which inferred college identity rather than state it outright. As the brand began to grow, we began to tailor our designs for various campus affiliations.  The aim of our brand is to bring students closer to their respective groups through designs that authentically reflect their identity. <\/p><p>We are a small, New Haven student-founded clothing and design brand, as well as a growing community. We welcome you to come and join our crew.<\/p><p>⊥⊥⊥⊥⊥⊥⊥⊥⊥⊥<\/p><p> <strong>Crew·Dog<\/strong><\/p><p>\/cru'-dâwg\/<br\/><br\/><em>noun<\/em> NORTH AMERICAN <em>trademark<\/em><br\/><br\/>noun: <strong>Crewdog<\/strong>; plural noun: <strong>Crewdogs<\/strong><br\/><br\/>           A fusion of man's best friend and man's favourite sport. -<br\/><br\/>           \"No one looks more relaxed than Becca when she's in her Crewdog.\"<br\/><br\/>Origin: early 21st century, from New Haven, a popular destination on the Metro North, where it was born.<\/p>",
+            "text_size": 14
+          }
+        }
+      },
+      "block_order": [
+        "heading_rTFPd9",
+        "richtext_J7HfyQ"
+      ],
+      "settings": {
+        "section_width": "full-width",
+        "text_alignment_desktop": "left",
+        "text_alignment_mobile": "left",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "colors": "white"
+      }
+    }
+  },
+  "order": [
+    "slideshow_wxgiCr",
+    "main",
+    "text_adverts_xxwaE9",
+    "rich_text_dn48kx"
+  ]
+}

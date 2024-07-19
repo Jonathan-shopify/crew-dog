@@ -1,0 +1,389 @@
+{
+  "wrapper": "div.collection-wrapper.wrapper",
+  "sections": {
+    "slideshow_hWddyz": {
+      "type": "slideshow",
+      "blocks": {
+        "image_jcN3cx": {
+          "type": "image",
+          "settings": {
+            "title": "Sororities",
+            "text": "",
+            "first_button_label": "Request a design",
+            "first_button_link": "shopify:\/\/pages\/design-request",
+            "second_button_label": "Learn more",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "image": "shopify:\/\/shop_images\/2CA4AED9-1139-4DB0-A993-377782C7ECBF.jpg",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#262428",
+            "image_overlay_opacity": 0,
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#242424"
+          }
+        },
+        "image_aEf73e": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "title": "Make a great \nfirst impression",
+            "text": "Add images and text to give focus to your chosen product, collection, or blog post.",
+            "first_button_label": "Shop now",
+            "first_button_link": "shopify:\/\/collections\/all",
+            "second_button_label": "Learn more",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#262428",
+            "image_overlay_opacity": 0,
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#242424"
+          }
+        },
+        "image_CPNdjL": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "title": "College Collections",
+            "text": "Showcase key products or collections to maximise your profits",
+            "first_button_label": "Shop now",
+            "first_button_link": "shopify:\/\/collections\/all",
+            "second_button_label": "Learn more",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#262428",
+            "image_overlay_opacity": 0,
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#242424"
+          }
+        }
+      },
+      "block_order": [
+        "image_jcN3cx",
+        "image_aEf73e",
+        "image_CPNdjL"
+      ],
+      "settings": {
+        "slide_transition_delay": 5,
+        "slide_navigation_style": "dots",
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "desktop_height": "medium",
+        "mobile_height": "medium"
+      }
+    },
+    "collection-header-spotlight": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_title": true,
+        "show_description": true,
+        "content_position": "center",
+        "min_height_desktop": "250",
+        "show_image_desktop": true,
+        "min_height_mobile": "150",
+        "show_image_mobile": true,
+        "enable_parallax": true,
+        "enable_fade": false,
+        "colors": "dark",
+        "image_overlay_color": "#ffffff",
+        "image_overlay_opacity": 0
+      }
+    },
+    "collage_9EHJJp": {
+      "type": "collage",
+      "blocks": {
+        "text_GiMadf": {
+          "type": "text",
+          "settings": {
+            "heading": "Need some inspiration?",
+            "heading_size": 40,
+            "text": "Check out some of the designs we've done for other organizations.",
+            "text_alignment": "left",
+            "button_label": "Request a design",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-center md-min-justify-left",
+            "background_color": "#e6e5e7",
+            "text_color": "#262428",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424"
+          }
+        },
+        "image_8VPyXN": {
+          "type": "image",
+          "settings": {
+            "heading": "Upload an image",
+            "heading_size": 30,
+            "button_label": "Shop now",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-top md-min-justify-left",
+            "mobile_position": "md-max-align-top md-max-justify-left",
+            "text_color": "#262428",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        },
+        "video_WTwwLc": {
+          "type": "video",
+          "disabled": true,
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "mobile_video_url": "",
+            "button_icon_color": "#e6e5e7",
+            "button_background_color": "#242424"
+          }
+        },
+        "background_video_UkgPhU": {
+          "type": "background_video",
+          "disabled": true,
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "mobile_video_url": "",
+            "heading": "Add a video",
+            "heading_size": 30,
+            "button_label": "Shop now",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-bottom md-min-justify-left",
+            "mobile_position": "md-max-align-bottom md-max-justify-left",
+            "text_color": "#262428",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        },
+        "text_3iBA84": {
+          "type": "text",
+          "settings": {
+            "heading": "we've worked with 100+ teams and counting",
+            "heading_size": 30,
+            "text": "Founded by a Yale rower, the first Crew Dog design we did was for the Yale Crew team. we were frustrated with bad  care about the",
+            "text_alignment": "right",
+            "button_label": "Shop now",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-bottom md-min-justify-right",
+            "background_color": "#e6e5e7",
+            "text_color": "#262428",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424"
+          }
+        }
+      },
+      "block_order": [
+        "text_GiMadf",
+        "image_8VPyXN",
+        "video_WTwwLc",
+        "background_video_UkgPhU",
+        "text_3iBA84"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "remove_spacing": false,
+        "section_width": "content",
+        "width_1": "3",
+        "height_1": "3",
+        "width_2": "3",
+        "height_2": "3",
+        "width_3": "3",
+        "height_3": "3",
+        "width_4": "2",
+        "height_4": "2",
+        "width_5": "2",
+        "height_5": "2",
+        "width_6": "1",
+        "height_6": "4",
+        "block_alignment": "center",
+        "color_scheme": "white"
+      }
+    },
+    "product-grid": {
+      "type": "template--collection",
+      "settings": {
+        "products-per-page": 6,
+        "desktop-products-per-row": 4,
+        "mobile-products-per-row": "1",
+        "pagination_options": "pagination_default",
+        "desktop_position": "sidebar",
+        "enable_collection_title": true,
+        "enable_collection_description": false,
+        "enable_filtering": true,
+        "show_swatch_filter_labels": true,
+        "enable_sorting": true
+      }
+    },
+    "accordion_FWkK7a": {
+      "type": "accordion",
+      "blocks": {
+        "tab_content_p9kz9G": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Is Crew Dog  licensed?",
+            "text": "<p>Yes! Once we've decided on a design we are ready to publish a design work with affinity <\/p>"
+          }
+        },
+        "tab_content_zmVgnf": {
+          "type": "tab_content",
+          "settings": {
+            "question": "How expensive are items?",
+            "text": "<p>Our prices start at $28 for tee shirts, $39 for Crew Necks, and $45 for Hoodies but vary based on quantity ordered.<\/p>"
+          }
+        },
+        "tab_content_HqcLjK": {
+          "type": "tab_content",
+          "settings": {
+            "question": "What are shipping times?",
+            "text": "<p>Items will be delivered with in 2 weeks.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "tab_content_p9kz9G",
+        "tab_content_zmVgnf",
+        "tab_content_HqcLjK"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Frequently asked questions",
+        "description": "",
+        "faq_icon": "plus_minus",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "colors": "white"
+      }
+    },
+    "76587a7b-5090-49f1-bb0a-8a87bf8dacc2": {
+      "type": "gallery",
+      "blocks": {
+        "template--16327181074597__76587a7b-5090-49f1-bb0a-8a87bf8dacc2-image-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "button_text_color": "#ffffff",
+            "button_background_color": "#242424",
+            "overlay_color": "#ffffff"
+          }
+        },
+        "template--16327181074597__76587a7b-5090-49f1-bb0a-8a87bf8dacc2-image-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "button_text_color": "#ffffff",
+            "button_background_color": "#242424",
+            "overlay_color": "#ffffff"
+          }
+        },
+        "template--16327181074597__76587a7b-5090-49f1-bb0a-8a87bf8dacc2-image-3": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "button_text_color": "#ffffff",
+            "button_background_color": "#242424",
+            "overlay_color": "#ffffff"
+          }
+        },
+        "4d92e266-6a39-498a-b189-cee8db6a07ac": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "button_text_color": "#ffffff",
+            "button_background_color": "#242424",
+            "overlay_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--16327181074597__76587a7b-5090-49f1-bb0a-8a87bf8dacc2-image-1",
+        "template--16327181074597__76587a7b-5090-49f1-bb0a-8a87bf8dacc2-image-2",
+        "template--16327181074597__76587a7b-5090-49f1-bb0a-8a87bf8dacc2-image-3",
+        "4d92e266-6a39-498a-b189-cee8db6a07ac"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Gallery",
+        "description": "<p>SHOWCASE YOUR BRAND<\/p>",
+        "content-position": "hide",
+        "buttons_style": "filled",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "section-width": "full",
+        "remove-spacing": false,
+        "full-width": false,
+        "colors": "accent"
+      }
+    },
+    "image_with_text_dq7yaW": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "title": "join our crew community",
+        "text": "<p>We've worked with over 100 crew teams across the US and Europe. <\/p><p>*1 more sentence*<\/p><p>Curious to see who we've worked with and some of their <\/p>",
+        "button_label": "",
+        "button_link": "shopify:\/\/pages\/sports-teams",
+        "buttons_style": "filled",
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "colors": "light"
+      }
+    }
+  },
+  "order": [
+    "slideshow_hWddyz",
+    "collection-header-spotlight",
+    "collage_9EHJJp",
+    "product-grid",
+    "accordion_FWkK7a",
+    "76587a7b-5090-49f1-bb0a-8a87bf8dacc2",
+    "image_with_text_dq7yaW"
+  ]
+}

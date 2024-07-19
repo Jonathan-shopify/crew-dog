@@ -1,0 +1,46 @@
+{% comment %}
+  Renders a "cross-sells" component that displays a list of products
+
+  Accepts:
+  - title: {String} heading of the block eg. block.settings.title
+  - cross_sells_products: {Array} an array of product handles to display
+
+  Usage:
+    {% render 'cross-sells' with title: block.settings.title, cross_sells_products: cross_sells_products %}
+{% endcomment %}
+
+{%- unless cross_sells_products == blank -%}
+  <div class="cross-sells-wrapper" id="cross-sells-{{ id }}">
+    {% if title != blank %}
+      <div class="header label-font">{{ title }}</div>
+    {% endif %}
+
+    {%- if cross_sells_products != blank -%}
+      <div class="cross-sells-products{% if cross_sells_products.size > 3 %} scrollable{% endif %}">
+        {% if cross_sells_products.size > 3 %}<scrollable-container class="top">{% endif %}
+          {%- comment %}<locksmith:3bfe>{% endcomment -%}
+            {%- assign locksmith_0384_forloop__size = 0 %}{%- for cross_sells_product in cross_sells_products -%}{% capture var %}{% render 'locksmith-variables', scope: 'subject', subject: cross_sells_product, variable: 'transparent' %}{% endcapture %}{% if var == 'true' %}{% assign locksmith_0384_forloop__size = locksmith_0384_forloop__size | plus: 1 %}{% endif %}{% endfor %}{% assign locksmith_0384_forloop__index = nil -%}
+          {%- comment %}</locksmith:3bfe>{% endcomment -%}
+          {%- for cross_sells_product in cross_sells_products -%}
+            {%- comment %}<locksmith:2edf>{% endcomment -%}
+              {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: cross_sells_product, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% if locksmith_0384_forloop__index == nil %}{% assign locksmith_0384_forloop__index = 1 %}{% assign locksmith_0384_forloop__index0 = 0 %}{% else %}{% assign locksmith_0384_forloop__index = locksmith_0384_forloop__index | plus: 1 %}{% assign locksmith_0384_forloop__index0 = locksmith_0384_forloop__index0 | plus: 1 %}{% endif %}{% if locksmith_0384_forloop__index == 1 %}{% assign locksmith_0384_forloop__first = true %}{% else %}{% assign locksmith_0384_forloop__first = false %}{% endif %}{% if locksmith_0384_forloop__index == locksmith_0384_forloop__size %}{% assign locksmith_0384_forloop__last = true %}{% else %}{% assign locksmith_0384_forloop__last = false %}{% endif %}{% assign locksmith_0384_forloop__rindex = locksmith_0384_forloop__size | minus: locksmith_0384_forloop__index | minus: 1 %}{% assign locksmith_0384_forloop__rindex0 = locksmith_0384_forloop__size | minus: locksmith_0384_forloop__index0 | minus: 1 %}{% else %}{% continue %}{% endif -%}
+            {%- comment %}</locksmith:2edf>{% endcomment -%}
+            {%- unless cross_sells_product == blank -%}
+              {% render 'product-cross-sell', product_id: cross_sells_product, index: locksmith_0384_forloop__index0 %}
+            {%- endunless -%}
+          {%- endfor -%}
+        {% if cross_sells_products.size > 3 %}</scrollable-container>{% endif %}
+      </div>
+    {%- endif -%}
+  </div>
+
+  <safe-load-scripts class="hidden">
+    <script src="{{ 'component-product-cross-sell.js' | asset_url }}" type="module" defer="defer" data-flow-load-key="component-product-cross-sell"></script>
+  </safe-load-scripts>
+
+  {% if cross_sells_products.size > 3 %}
+    <safe-load-scripts class="hidden">
+      <script src="{{ 'component-scrollable-container.js' | asset_url }}" type="module" defer="defer" data-flow-load-key="component-scrollable-container"></script>
+    </safe-load-scripts>
+  {% endif %}
+{%- endunless -%}

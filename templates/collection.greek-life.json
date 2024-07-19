@@ -1,0 +1,590 @@
+{
+  "wrapper": "div.collection-wrapper.wrapper",
+  "sections": {
+    "slideshow_hWddyz": {
+      "type": "slideshow",
+      "blocks": {
+        "image_jcN3cx": {
+          "type": "image",
+          "settings": {
+            "title": "Custom Clothing \nfor Greek Life",
+            "text": "",
+            "first_button_label": "Request a design",
+            "first_button_link": "shopify:\/\/pages\/design-request",
+            "second_button_label": "Learn more",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "image": "shopify:\/\/shop_images\/sig-chi-brown-bear-hoodie-751736.jpg",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#242424",
+            "image_overlay_opacity": 0,
+            "caption-text": "#242424",
+            "button-text": "#ffffff",
+            "button-background": "#242424"
+          }
+        }
+      },
+      "block_order": [
+        "image_jcN3cx"
+      ],
+      "settings": {
+        "slide_transition_delay": 5,
+        "slide_navigation_style": "dots",
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "desktop_height": "medium",
+        "mobile_height": "medium"
+      }
+    },
+    "collection-header-spotlight": {
+      "type": "collection-header",
+      "disabled": true,
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_title": true,
+        "show_description": true,
+        "content_position": "center",
+        "min_height_desktop": "250",
+        "show_image_desktop": true,
+        "min_height_mobile": "150",
+        "show_image_mobile": true,
+        "enable_parallax": true,
+        "enable_fade": false,
+        "colors": "dark",
+        "image_overlay_color": "#ffffff",
+        "image_overlay_opacity": 0
+      }
+    },
+    "product-grid": {
+      "type": "template--collection",
+      "disabled": true,
+      "settings": {
+        "products-per-page": 6,
+        "desktop-products-per-row": 4,
+        "mobile-products-per-row": "1",
+        "pagination_options": "pagination_default",
+        "desktop_position": "sidebar",
+        "enable_collection_title": true,
+        "enable_collection_description": false,
+        "enable_filtering": true,
+        "show_swatch_filter_labels": true,
+        "enable_sorting": true
+      }
+    },
+    "accordion_FWkK7a": {
+      "type": "accordion",
+      "blocks": {
+        "tab_content_p9kz9G": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Is Crew Dog  licensed?",
+            "text": "<p>Yes! Once we've decided on a design we are ready to publish a design work with affinity <\/p>"
+          }
+        },
+        "tab_content_zmVgnf": {
+          "type": "tab_content",
+          "settings": {
+            "question": "How expensive are items?",
+            "text": "<p>Our prices start at $28 for tee shirts, $39 for Crew Necks, and $45 for Hoodies but vary based on quantity ordered.<\/p>"
+          }
+        },
+        "tab_content_HqcLjK": {
+          "type": "tab_content",
+          "settings": {
+            "question": "What are shipping times?",
+            "text": "<p>Items will be delivered with in 2 weeks.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "tab_content_p9kz9G",
+        "tab_content_zmVgnf",
+        "tab_content_HqcLjK"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Frequently asked questions",
+        "description": "",
+        "faq_icon": "plus_minus",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "colors": "white"
+      }
+    },
+    "collage_9EHJJp": {
+      "type": "collage",
+      "blocks": {
+        "text_7KnHFN": {
+          "type": "text",
+          "settings": {
+            "heading": "Free design process",
+            "heading_size": 40,
+            "text": "Use text paired with images or videos to create a captivating brand story, explain details of your products, or highlight store promotions.",
+            "text_alignment": "center",
+            "button_label": "How it works",
+            "url": "shopify:\/\/pages\/design-request",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-center md-min-justify-center",
+            "background_color": "#e6e5e7",
+            "text_color": "#262428",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424"
+          }
+        },
+        "text_9jccib": {
+          "type": "text",
+          "settings": {
+            "heading": "Delivery in 7-10 days",
+            "heading_size": 39,
+            "text": "Made and shipped to you with in 7-10 days once finalize your design.",
+            "text_alignment": "center",
+            "button_label": "Shop now",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-center md-min-justify-right",
+            "background_color": "#e6e5e7",
+            "text_color": "#262428",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424"
+          }
+        },
+        "text_hXtVUQ": {
+          "type": "text",
+          "settings": {
+            "heading": "Bulk order discounts",
+            "heading_size": 40,
+            "text": "Save up to 40% when you order in bulk for your entire Greek organization.",
+            "text_alignment": "center",
+            "button_label": "Pricing",
+            "url": "shopify:\/\/pages\/design-request",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-center md-min-justify-left",
+            "background_color": "#e6e5e7",
+            "text_color": "#262428",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424"
+          }
+        },
+        "text_3iBA84": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "we've worked with 100+ organizations and counting",
+            "heading_size": 30,
+            "text": "",
+            "text_alignment": "right",
+            "button_label": "Shop now",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-bottom md-min-justify-right",
+            "background_color": "#e6e5e7",
+            "text_color": "#262428",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424"
+          }
+        },
+        "text_GiMadf": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Need some inspiration?",
+            "heading_size": 40,
+            "text": "Check out some of the designs we've done for other organizations.",
+            "text_alignment": "left",
+            "button_label": "Shop all",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-center md-min-justify-left",
+            "background_color": "#e6e5e7",
+            "text_color": "#262428",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424"
+          }
+        }
+      },
+      "block_order": [
+        "text_7KnHFN",
+        "text_9jccib",
+        "text_hXtVUQ",
+        "text_3iBA84",
+        "text_GiMadf"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "remove_spacing": false,
+        "section_width": "content",
+        "width_1": "3",
+        "height_1": "3",
+        "width_2": "3",
+        "height_2": "3",
+        "width_3": "3",
+        "height_3": "3",
+        "width_4": "2",
+        "height_4": "4",
+        "width_5": "2",
+        "height_5": "4",
+        "width_6": "1",
+        "height_6": "4",
+        "block_alignment": "center",
+        "color_scheme": "white"
+      }
+    },
+    "scrolling_banner_yVPxTN": {
+      "type": "scrolling-banner",
+      "blocks": {
+        "image_d4zgjM": {
+          "type": "image",
+          "settings": {
+            "height_desktop": 200,
+            "height_mobile": 60,
+            "link": ""
+          }
+        },
+        "image_Fh7w8k": {
+          "type": "image",
+          "settings": {
+            "height_desktop": 200,
+            "height_mobile": 60,
+            "link": ""
+          }
+        },
+        "image_dDcjw7": {
+          "type": "image",
+          "settings": {
+            "height_desktop": 200,
+            "height_mobile": 60,
+            "link": ""
+          }
+        },
+        "image_PLTHUg": {
+          "type": "image",
+          "settings": {
+            "height_desktop": 200,
+            "height_mobile": 60,
+            "link": ""
+          }
+        },
+        "image_iqLNa4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PNG_3.png",
+            "height_desktop": 200,
+            "height_mobile": 60,
+            "link": ""
+          }
+        },
+        "image_dQrNLt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Fiji_Island_1_background_copy_Large_a93c1d9f-75bc-4558-a9ec-2fc59909c616.png",
+            "height_desktop": 200,
+            "height_mobile": 60,
+            "link": ""
+          }
+        },
+        "image_8Mgbwp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Snake_w_letters_Large_9f01827f-b940-432a-8a77-ed15201977dc.png",
+            "height_desktop": 200,
+            "height_mobile": 60,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_d4zgjM",
+        "image_Fh7w8k",
+        "image_dDcjw7",
+        "image_PLTHUg",
+        "image_iqLNa4",
+        "image_dQrNLt",
+        "image_8Mgbwp"
+      ],
+      "settings": {
+        "show_fade": false,
+        "borders": false,
+        "animation_direction": "normal",
+        "animation_speed": 60,
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "space_between_blocks_desktop": 80,
+        "space_between_blocks_mobile": 20,
+        "rotate": "0",
+        "color_scheme": "white"
+      }
+    },
+    "image_with_text_dq7yaW": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/zete_formal_black_3.png",
+        "title": "Streamline your Greek organization's design process with our design team",
+        "text": "<p>At Crew Dog, we understand the importance of creating unique, stylish, and personalized apparel that you're proud to wear for your Greek organization. That's why we have a free design process with a team specifically trained to meet the needs of fraternities and sororities. We remove the headache and stress of designing for your organization, work with us and feel the difference. <\/p>",
+        "button_label": "Request a design",
+        "button_link": "shopify:\/\/pages\/design-request",
+        "buttons_style": "filled",
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "colors": "light"
+      }
+    },
+    "scrolling_banner_iECLJW": {
+      "type": "scrolling-banner",
+      "blocks": {
+        "text_cTj9fb": {
+          "type": "text",
+          "settings": {
+            "text": "Past designs",
+            "font": "heading",
+            "style": "fill",
+            "font_size_desktop": 48,
+            "font_size_mobile": 28
+          }
+        },
+        "image_CbkfmR": {
+          "type": "image",
+          "settings": {
+            "height_desktop": 152,
+            "height_mobile": 60,
+            "link": ""
+          }
+        },
+        "image_Qb77n7": {
+          "type": "image",
+          "settings": {
+            "height_desktop": 152,
+            "height_mobile": 60,
+            "link": ""
+          }
+        },
+        "image_waWjLp": {
+          "type": "image",
+          "settings": {
+            "height_desktop": 152,
+            "height_mobile": 60,
+            "link": ""
+          }
+        },
+        "image_xwQ6jd": {
+          "type": "image",
+          "settings": {
+            "height_desktop": 152,
+            "height_mobile": 60,
+            "link": ""
+          }
+        },
+        "image_Q3jqrm": {
+          "type": "image",
+          "settings": {
+            "height_desktop": 152,
+            "height_mobile": 60,
+            "link": ""
+          }
+        },
+        "image_A7jRWh": {
+          "type": "image",
+          "settings": {
+            "height_desktop": 152,
+            "height_mobile": 60,
+            "link": ""
+          }
+        },
+        "image_zdtc8p": {
+          "type": "image",
+          "settings": {
+            "height_desktop": 152,
+            "height_mobile": 60,
+            "link": ""
+          }
+        },
+        "image_PNbTQW": {
+          "type": "image",
+          "settings": {
+            "height_desktop": 152,
+            "height_mobile": 60,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_cTj9fb",
+        "image_CbkfmR",
+        "image_Qb77n7",
+        "image_waWjLp",
+        "image_xwQ6jd",
+        "image_Q3jqrm",
+        "image_A7jRWh",
+        "image_zdtc8p",
+        "image_PNbTQW"
+      ],
+      "disabled": true,
+      "settings": {
+        "show_fade": false,
+        "borders": false,
+        "animation_direction": "normal",
+        "animation_speed": 60,
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "space_between_blocks_desktop": 42,
+        "space_between_blocks_mobile": 9,
+        "rotate": "0",
+        "color_scheme": "white"
+      }
+    },
+    "76587a7b-5090-49f1-bb0a-8a87bf8dacc2": {
+      "type": "gallery",
+      "blocks": {
+        "template--16327181074597__76587a7b-5090-49f1-bb0a-8a87bf8dacc2-image-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "button_text_color": "#ffffff",
+            "button_background_color": "#242424",
+            "overlay_color": "#ffffff"
+          }
+        },
+        "template--16327181074597__76587a7b-5090-49f1-bb0a-8a87bf8dacc2-image-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "button_text_color": "#ffffff",
+            "button_background_color": "#242424",
+            "overlay_color": "#ffffff"
+          }
+        },
+        "template--16327181074597__76587a7b-5090-49f1-bb0a-8a87bf8dacc2-image-3": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "button_text_color": "#ffffff",
+            "button_background_color": "#242424",
+            "overlay_color": "#ffffff"
+          }
+        },
+        "4d92e266-6a39-498a-b189-cee8db6a07ac": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "button_text_color": "#ffffff",
+            "button_background_color": "#242424",
+            "overlay_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--16327181074597__76587a7b-5090-49f1-bb0a-8a87bf8dacc2-image-1",
+        "template--16327181074597__76587a7b-5090-49f1-bb0a-8a87bf8dacc2-image-2",
+        "template--16327181074597__76587a7b-5090-49f1-bb0a-8a87bf8dacc2-image-3",
+        "4d92e266-6a39-498a-b189-cee8db6a07ac"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Gallery",
+        "description": "<p>SHOWCASE YOUR BRAND<\/p>",
+        "content-position": "hide",
+        "buttons_style": "filled",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "section-width": "full",
+        "remove-spacing": false,
+        "full-width": false,
+        "colors": "accent"
+      }
+    },
+    "template_product_info_columns_qKyVBj": {
+      "type": "template--product--info-columns",
+      "blocks": {
+        "image_and_text_P6VebN": {
+          "type": "image_and_text",
+          "settings": {
+            "grid_image_size": "square",
+            "heading": "Bulk Order Discounts",
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.<\/p>",
+            "button_text": "Pricing",
+            "button_link": "shopify:\/\/pages\/greek-life"
+          }
+        },
+        "image_and_text_eBL7Up": {
+          "type": "image_and_text",
+          "settings": {
+            "grid_image_size": "natural",
+            "heading": "Free design process",
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.<\/p>",
+            "button_text": "Request a design",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        },
+        "text_9NPcM7": {
+          "type": "text",
+          "settings": {
+            "heading": "Delivery in 7-10 days",
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.<\/p>",
+            "button_text": "Learn more",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "image_and_text_P6VebN",
+        "image_and_text_eBL7Up",
+        "text_9NPcM7"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Unique designs for any chapter",
+        "description": "<p>Emphasise your messaging<\/p>",
+        "buttons_style": "underlined",
+        "columns_per_row": 3,
+        "text_alignment": "center",
+        "vertical_alignment": "top",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "colors": "white"
+      }
+    }
+  },
+  "order": [
+    "slideshow_hWddyz",
+    "collection-header-spotlight",
+    "product-grid",
+    "accordion_FWkK7a",
+    "collage_9EHJJp",
+    "scrolling_banner_yVPxTN",
+    "image_with_text_dq7yaW",
+    "scrolling_banner_iECLJW",
+    "76587a7b-5090-49f1-bb0a-8a87bf8dacc2",
+    "template_product_info_columns_qKyVBj"
+  ]
+}

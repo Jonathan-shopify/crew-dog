@@ -1,0 +1,237 @@
+{
+  "sections": {
+    "slideshow_wxgiCr": {
+      "type": "slideshow",
+      "blocks": {
+        "image_GQK3xb": {
+          "type": "image",
+          "settings": {
+            "title": "College Collections",
+            "text": "Say goodbye to boring apparel",
+            "first_button_label": "Shop now",
+            "first_button_link": "shopify:\/\/collections\/all",
+            "second_button_label": "Learn more",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#262428",
+            "image_overlay_opacity": 0,
+            "caption-text": "#ffffff",
+            "button-text": "#FFFFFF",
+            "button-background": "#242424"
+          }
+        },
+        "image_WNTUGJ": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your \ntop earners",
+            "text": "Showcase key products or collections to maximise your profits",
+            "first_button_label": "Shop now",
+            "first_button_link": "shopify:\/\/collections\/all",
+            "second_button_label": "Learn more",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#262428",
+            "image_overlay_opacity": 0,
+            "caption-text": "#ffffff",
+            "button-text": "#FFFFFF",
+            "button-background": "#242424"
+          }
+        }
+      },
+      "block_order": [
+        "image_GQK3xb",
+        "image_WNTUGJ"
+      ],
+      "settings": {
+        "slide_transition_delay": 6,
+        "slide_navigation_style": "bars",
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "desktop_height": "large",
+        "mobile_height": "extra_large"
+      }
+    },
+    "main": {
+      "type": "template--page",
+      "disabled": true,
+      "settings": {
+        "page_title_enabled": true,
+        "page_width": "full-width"
+      }
+    },
+    "text_adverts_xxwaE9": {
+      "type": "text-adverts",
+      "blocks": {
+        "text_4akYY6": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        },
+        "text_EEMp66": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        },
+        "text_TCqizx": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_4akYY6",
+        "text_EEMp66",
+        "text_TCqizx"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "colors": "light"
+      }
+    },
+    "collage_7kwzyN": {
+      "type": "collage",
+      "blocks": {
+        "text_e8tYxg": {
+          "type": "text",
+          "settings": {
+            "heading": "Include text details",
+            "heading_size": 30,
+            "text": "Use text paired with images or videos to create a captivating brand story, explain details of your products, or highlight store promotions.",
+            "text_alignment": "right",
+            "button_label": "Shop now",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-bottom md-min-justify-right",
+            "background_color": "#E6E5E7",
+            "text_color": "#262428",
+            "button_color": "#E6E5E7",
+            "button_background_color": "#242424"
+          }
+        },
+        "image_MMc6DU": {
+          "type": "image",
+          "settings": {
+            "heading": "Upload an image",
+            "heading_size": 30,
+            "button_label": "Shop now",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-top md-min-justify-left",
+            "mobile_position": "md-max-align-top md-max-justify-left",
+            "text_color": "#262428",
+            "button_color": "#E6E5E7",
+            "button_background_color": "#242424",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        },
+        "text_Ug4ryB": {
+          "type": "text",
+          "settings": {
+            "heading": "Include text details",
+            "heading_size": 60,
+            "text": "Use text paired with images or videos to create a captivating brand story, explain details of your products, or highlight store promotions.",
+            "text_alignment": "left",
+            "button_label": "Shop now",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-center md-min-justify-left",
+            "background_color": "#E6E5E7",
+            "text_color": "#262428",
+            "button_color": "#E6E5E7",
+            "button_background_color": "#242424"
+          }
+        },
+        "image_eH9W8A": {
+          "type": "image",
+          "settings": {
+            "heading": "Link to a collection",
+            "heading_size": 60,
+            "button_label": "Shop now",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-center md-min-justify-center",
+            "mobile_position": "md-max-align-center md-max-justify-center",
+            "text_color": "#262428",
+            "button_color": "#E6E5E7",
+            "button_background_color": "#242424",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        },
+        "image_U3CtYz": {
+          "type": "image",
+          "settings": {
+            "heading": "Create a banner promotion",
+            "heading_size": 30,
+            "button_label": "",
+            "url": "",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-center md-min-justify-center",
+            "mobile_position": "md-max-align-center md-max-justify-center",
+            "text_color": "#262428",
+            "button_color": "#E6E5E7",
+            "button_background_color": "#242424",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "text_e8tYxg",
+        "image_MMc6DU",
+        "text_Ug4ryB",
+        "image_eH9W8A",
+        "image_U3CtYz"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "remove_spacing": false,
+        "section_width": "content",
+        "width_1": "3",
+        "height_1": "3",
+        "width_2": "3",
+        "height_2": "3",
+        "width_3": "3",
+        "height_3": "3",
+        "width_4": "2",
+        "height_4": "2",
+        "width_5": "2",
+        "height_5": "2",
+        "width_6": "1",
+        "height_6": "4",
+        "block_alignment": "center",
+        "color_scheme": "white"
+      }
+    }
+  },
+  "order": [
+    "slideshow_wxgiCr",
+    "main",
+    "text_adverts_xxwaE9",
+    "collage_7kwzyN"
+  ]
+}

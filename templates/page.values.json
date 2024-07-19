@@ -1,0 +1,153 @@
+{
+  "sections": {
+    "slideshow_wxgiCr": {
+      "type": "slideshow",
+      "blocks": {
+        "image_GQK3xb": {
+          "type": "image",
+          "settings": {
+            "title": "College Collections",
+            "text": "Say goodbye to boring apparel",
+            "first_button_label": "Shop now",
+            "first_button_link": "shopify:\/\/collections\/all",
+            "second_button_label": "Learn more",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#262428",
+            "image_overlay_opacity": 0,
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#242424"
+          }
+        },
+        "image_WNTUGJ": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your \ntop earners",
+            "text": "Showcase key products or collections to maximise your profits",
+            "first_button_label": "Shop now",
+            "first_button_link": "shopify:\/\/collections\/all",
+            "second_button_label": "Learn more",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#262428",
+            "image_overlay_opacity": 0,
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#242424"
+          }
+        }
+      },
+      "block_order": [
+        "image_GQK3xb",
+        "image_WNTUGJ"
+      ],
+      "disabled": true,
+      "settings": {
+        "slide_transition_delay": 6,
+        "slide_navigation_style": "bars",
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "desktop_height": "large",
+        "mobile_height": "extra_large"
+      }
+    },
+    "main": {
+      "type": "template--page",
+      "disabled": true,
+      "settings": {
+        "page_title_enabled": true,
+        "page_width": "full-width"
+      }
+    },
+    "text_adverts_xxwaE9": {
+      "type": "text-adverts",
+      "blocks": {
+        "text_4akYY6": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        },
+        "text_EEMp66": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        },
+        "text_TCqizx": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_4akYY6",
+        "text_EEMp66",
+        "text_TCqizx"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "colors": "light"
+      }
+    },
+    "rich_text_dn48kx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rTFPd9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Values",
+            "heading--text-size": 30
+          }
+        },
+        "richtext_J7HfyQ": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>We believe in bridging worlds. Connecting students closer to their affiliations and also our customers to the design and manufacturing process. We are doing our best to provide the community apparel that is as close to sustainable as we can source, while also staying mindful of the costs of our items to our community being majority students.<\/p><p>Moreover, we believe in giving back to those that are in our immediate environment. We have partnered with a diverse group of charities including:<\/p><ul><li><a href=\"https:\/\/www.gofundme.com\/f\/e6ue6r-clarissas-campaign-for-cambridge-hearts\">Clarissa's Campaign<\/a><\/li><li><a href=\"https:\/\/www.whiskeybravo.org\/\">Whiskey Bravo<\/a><\/li><li>Crew Haven (WIP)<\/li><\/ul><p>At Crew Dog, we take great pride in our commitment to ethical manufacturing and product excellence. We prioritize sourcing high-quality materials and ensuring fair labor practices throughout our supply chain. Our manufacturing process adheres to strict standards, with our factories being either WRAP and FLA certified.<\/p><p>Furthermore, our dedication to cruelty-free production is a cornerstone of our values. We are proud to be PETA-approved, ensuring that all our products are 100% free of any animal ingredients. This commitment reflects our respect for both our customers and the planet.<\/p><p>Transparency and accountability are fundamental to our operations. We have dedicated teams regularly visiting and inspecting all factories we work with to ensure compliance with our high ethical standards. Whether it's screen printing, transfers, embroidery, or other embellishments, you can trust that our garments not only meet but exceed industry standards for performance and ethical sourcing.<\/p><p>When you choose Crew Dog, you're not only getting top-quality products but also supporting a brand that shares your values of sustainability, ethical manufacturing, and integrity.<\/p><p>We are a small, New Haven student-founded clothing and design brand, as well as a growing community. We welcome you to come and join our crew.<\/p>",
+            "text_size": 14
+          }
+        }
+      },
+      "block_order": [
+        "heading_rTFPd9",
+        "richtext_J7HfyQ"
+      ],
+      "settings": {
+        "section_width": "full-width",
+        "text_alignment_desktop": "left",
+        "text_alignment_mobile": "left",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "colors": "white"
+      }
+    }
+  },
+  "order": [
+    "slideshow_wxgiCr",
+    "main",
+    "text_adverts_xxwaE9",
+    "rich_text_dn48kx"
+  ]
+}

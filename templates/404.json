@@ -1,0 +1,22 @@
+{
+  "sections": {
+    "main": {
+      "type": "template--404",
+      "settings": {}
+    },
+    "aaaf7498-89a7-4c1a-9640-9337291948d5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Collection",
+        "show_view_all": true,
+        "grid-desktop": 4,
+        "grid-mobile": "2",
+        "colors": "light"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "aaaf7498-89a7-4c1a-9640-9337291948d5"
+  ]
+}

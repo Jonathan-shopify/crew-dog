@@ -1,0 +1,1059 @@
+{
+  "sections": {
+    "slideshow_kcywfX": {
+      "type": "slideshow",
+      "blocks": {
+        "image_yaWCJQ": {
+          "type": "image",
+          "settings": {
+            "title": "Make a great \nfirst impression",
+            "text": "Add images and text to give focus to your chosen product, collection, or blog post.",
+            "first_button_label": "Shop now",
+            "first_button_link": "shopify:\/\/collections\/all",
+            "second_button_label": "Learn more",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#262428",
+            "image_overlay_opacity": 0,
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#242424"
+          }
+        },
+        "image_YtPjVr": {
+          "type": "image",
+          "settings": {
+            "title": "Make a great \nfirst impression",
+            "text": "Founded by students for students, we were frustrated with how boring college clothing was, and even more unhappy with how difficult it was to create your own custom designs.",
+            "first_button_label": "Shop now",
+            "first_button_link": "shopify:\/\/collections\/all",
+            "second_button_label": "Learn more",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#262428",
+            "image_overlay_opacity": 0,
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#242424"
+          }
+        },
+        "image_PbJ6J9": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your \ntop earners",
+            "text": "Showcase key products or collections to maximise your profits",
+            "first_button_label": "Shop now",
+            "first_button_link": "shopify:\/\/collections\/all",
+            "second_button_label": "Learn more",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#262428",
+            "image_overlay_opacity": 0,
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#242424"
+          }
+        }
+      },
+      "block_order": [
+        "image_yaWCJQ",
+        "image_YtPjVr",
+        "image_PbJ6J9"
+      ],
+      "disabled": true,
+      "settings": {
+        "slide_transition_delay": 7,
+        "slide_navigation_style": "bars",
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "desktop_height": "large",
+        "mobile_height": "extra_large"
+      }
+    },
+    "animated_text_MC3Emx": {
+      "type": "animated-text",
+      "blocks": {
+        "text_static_L49nDT": {
+          "type": "text_static",
+          "settings": {
+            "text_static": "<p>Personalized clothing<\/p>",
+            "max_width_desktop": 100,
+            "max_width_mobile": 100,
+            "text_color": "#ffffff"
+          }
+        },
+        "text_static_6NGjFj": {
+          "type": "text_static",
+          "disabled": true,
+          "settings": {
+            "text_static": "<p>Collegiate Apparel<\/p>",
+            "max_width_desktop": 100,
+            "max_width_mobile": 100,
+            "text_color": "#ffffff"
+          }
+        },
+        "text_dynamic_UF73jN": {
+          "type": "text_dynamic",
+          "settings": {
+            "text_dynamic": "for students,for teams,for clubs,for everyone",
+            "animation_timing": 500,
+            "rotation_interval": 3300,
+            "text_color": "#ffffff"
+          }
+        },
+        "button_F8P49J": {
+          "type": "button",
+          "settings": {
+            "button_url": "shopify:\/\/collections\/all",
+            "button_text": "Request a Design",
+            "buttons_style": "filled",
+            "color_button_text": "#242424",
+            "color_button_background": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "text_static_L49nDT",
+        "text_static_6NGjFj",
+        "text_dynamic_UF73jN",
+        "button_F8P49J"
+      ],
+      "settings": {
+        "image_desktop": "shopify:\/\/shop_images\/CREWDOG.jpg",
+        "height_desktop": "xl",
+        "text_size_desktop": 60,
+        "text_position_desktop": "top_left",
+        "image_mobile": "shopify:\/\/shop_images\/CREWDOG.jpg",
+        "height_mobile": "l",
+        "text_size_mobile": 26,
+        "text_position_mobile": "top_left",
+        "section_margin_top": 0,
+        "section_margin_bottom": 0,
+        "colors": "light"
+      }
+    },
+    "c9763f42-0175-4b8c-b546-7950fe610c1f": {
+      "type": "rich-text",
+      "blocks": {
+        "8c3ea8fb-167a-4b50-b1b1-a14762b1b4a3": {
+          "type": "richtext",
+          "settings": {
+            "text": "<h1>the design processs<\/h1>",
+            "text_size": 22
+          }
+        },
+        "richtext_7WAC4V": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>At Crew Dog, we're changing the process of creating custom apparel with a free design process. There is no payment until you're ready to order your product CTA and explanation<\/p>",
+            "text_size": 14
+          }
+        },
+        "button_7wEUFF": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/collections\/all",
+            "button_text": "create you own design",
+            "buttons_style": "filled"
+          }
+        }
+      },
+      "block_order": [
+        "8c3ea8fb-167a-4b50-b1b1-a14762b1b4a3",
+        "richtext_7WAC4V",
+        "button_7wEUFF"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "narrow",
+        "text_alignment_desktop": "center",
+        "text_alignment_mobile": "left",
+        "section_padding_top": 60,
+        "section_padding_bottom": 25,
+        "colors": "light"
+      }
+    },
+    "rich_text_B4fxCx": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_3bqpMm": {
+          "type": "richtext",
+          "settings": {
+            "text": "<h1>past designs <\/h1>",
+            "text_size": 22
+          }
+        },
+        "richtext_TnfH6T": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "text": "<p>At Crew Dog, we're changing the process of creating custom apparel with a free design process. There is no payment until you're ready to order your product CTA and explanation<\/p>",
+            "text_size": 14
+          }
+        },
+        "button_T3cE6j": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_link": "shopify:\/\/collections\/all",
+            "button_text": "create you own design",
+            "buttons_style": "filled"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_3bqpMm",
+        "richtext_TnfH6T",
+        "button_T3cE6j"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_width": "narrow",
+        "text_alignment_desktop": "center",
+        "text_alignment_mobile": "left",
+        "section_padding_top": 40,
+        "section_padding_bottom": 0,
+        "colors": "light"
+      }
+    },
+    "rich_text_6atbiK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NPtmYQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Founded by Students For students,  we are changing college clothing.",
+            "heading--text-size": 20
+          }
+        }
+      },
+      "block_order": [
+        "heading_NPtmYQ"
+      ],
+      "settings": {
+        "section_width": "narrow",
+        "text_alignment_desktop": "center",
+        "text_alignment_mobile": "center",
+        "section_padding_top": 45,
+        "section_padding_bottom": 35,
+        "colors": "light"
+      }
+    },
+    "featured_collection_dbcjQM": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "description": "",
+        "collection": "website-home-page",
+        "show_view_all": false,
+        "buttons_style": "filled",
+        "section_padding_top": 35,
+        "section_padding_bottom": 15,
+        "layout_style": "slider",
+        "products_to_show": 10,
+        "grid-desktop": 4,
+        "grid-mobile": "2",
+        "colors": "white"
+      }
+    },
+    "rich_text_fgKFin": {
+      "type": "rich-text",
+      "blocks": {
+        "button_ejfRC8": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/collections\/all",
+            "button_text": "Shop All",
+            "buttons_style": "filled"
+          }
+        }
+      },
+      "block_order": [
+        "button_ejfRC8"
+      ],
+      "settings": {
+        "section_width": "narrow",
+        "text_alignment_desktop": "center",
+        "text_alignment_mobile": "center",
+        "section_padding_top": 15,
+        "section_padding_bottom": 35,
+        "colors": "white"
+      }
+    },
+    "collage_zgj6XV": {
+      "type": "collage",
+      "blocks": {
+        "image_8epycF": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/3971B976-FDB1-4DA1-BD20-2FD6ED3C2BA7.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/3971B976-FDB1-4DA1-BD20-2FD6ED3C2BA7.jpg",
+            "heading": "",
+            "heading_size": 32,
+            "button_label": "Shop college collections",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-top md-min-justify-left",
+            "mobile_position": "md-max-align-bottom md-max-justify-center",
+            "text_color": "#ffffff",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        },
+        "image_AGw9Hj": {
+          "type": "image",
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/52B33BD9-299D-4E9F-8995-289A0BE4C071_4e518aaa-3bab-49cf-87ec-b1232bf3b504.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/52B33BD9-299D-4E9F-8995-289A0BE4C071_4e518aaa-3bab-49cf-87ec-b1232bf3b504.jpg",
+            "heading": "",
+            "heading_size": 30,
+            "button_label": "Shop crew collections",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-top md-min-justify-right",
+            "mobile_position": "md-max-align-bottom md-max-justify-center",
+            "text_color": "#ffffff",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        },
+        "text_YhmTkF": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Collegiate Collections",
+            "heading_size": 38,
+            "text": "Everyone deserves unique, stylish, and personalized apparel that you're proud to wear. Our college collections bring old institutions and the new generation closer together through subtle and stylish representation. Shop our existing college collections or request your own design.\n\nCrew Dog gives power to students to create the kind of apparel they want to wear, regardless of the size of the group.",
+            "text_alignment": "left",
+            "button_label": "",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-center md-min-justify-left",
+            "background_color": "#e6e5e7",
+            "text_color": "#262428",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424"
+          }
+        },
+        "background_video_mV4h8Y": {
+          "type": "background_video",
+          "disabled": true,
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/My Movie 1_96119c49-a3db-4ca5-bd99-0ecbc483b95a.mp4",
+            "video_url": "",
+            "mobile_video": "shopify:\/\/files\/videos\/Crew Dog 1 Year_3 copy.mov",
+            "mobile_video_url": "",
+            "heading": "Collegiate Collections",
+            "heading_size": 30,
+            "button_label": "Shop now",
+            "url": "https:\/\/crew-dog.com\/collections\/colleges",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-top md-min-justify-left",
+            "mobile_position": "md-max-align-bottom md-max-justify-left",
+            "text_color": "#262428",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        },
+        "text_JpnaB9": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Include text details",
+            "heading_size": 30,
+            "text": "Use text paired with images or videos to create a captivating brand story, explain details of your products, or highlight store promotions.",
+            "text_alignment": "right",
+            "button_label": "Shop now",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-bottom md-min-justify-right",
+            "background_color": "#e6e5e7",
+            "text_color": "#262428",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424"
+          }
+        },
+        "image_pJbw6H": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/Fiji_Island_1_background_copy_Large_a93c1d9f-75bc-4558-a9ec-2fc59909c616.png",
+            "heading": "Custom Designs",
+            "heading_size": 30,
+            "button_label": "Request a design",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-bottom md-min-justify-right",
+            "mobile_position": "md-max-align-bottom md-max-justify-right",
+            "text_color": "#262428",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "image_8epycF",
+        "image_AGw9Hj",
+        "text_YhmTkF",
+        "background_video_mV4h8Y",
+        "text_JpnaB9",
+        "image_pJbw6H"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "section_padding_top": 15,
+        "section_padding_bottom": 0,
+        "remove_spacing": true,
+        "section_width": "full",
+        "width_1": "2",
+        "height_1": "2",
+        "width_2": "2",
+        "height_2": "2",
+        "width_3": "3",
+        "height_3": "2",
+        "width_4": "2",
+        "height_4": "2",
+        "width_5": "2",
+        "height_5": "2",
+        "width_6": "1",
+        "height_6": "4",
+        "block_alignment": "center",
+        "color_scheme": "light"
+      }
+    },
+    "0fc6742c-1168-43e2-8978-750bb12b448b": {
+      "type": "template--product--info-columns",
+      "blocks": {
+        "template--16327181074597__0fc6742c-1168-43e2-8978-750bb12b448b-image_and_text-1": {
+          "type": "image_and_text",
+          "settings": {
+            "grid_image_size": "wide",
+            "heading": "Shop our College Collections",
+            "text": "<p>asd<\/p>",
+            "button_text": "Shop College",
+            "button_link": "shopify:\/\/collections"
+          }
+        },
+        "88db6a93-62b7-47c1-9b48-b2ca48fb0614": {
+          "type": "image_and_text",
+          "settings": {
+            "grid_image_size": "wide",
+            "heading": "Create Your Own Custom Designs",
+            "text": "<p>sdf<\/p>",
+            "button_text": "Create Your Own",
+            "button_link": "shopify:\/\/pages\/design-request"
+          }
+        }
+      },
+      "block_order": [
+        "template--16327181074597__0fc6742c-1168-43e2-8978-750bb12b448b-image_and_text-1",
+        "88db6a93-62b7-47c1-9b48-b2ca48fb0614"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "What we do",
+        "description": "<p>Every student, club, organization, and team deserve unique, stylish, and personalized apparel that you're proud to wear. That's why we have a free design process to meet the needs of any group. We remove the headache and stress of coming up with a design. Work with us and feel the difference. <\/p>",
+        "buttons_style": "filled",
+        "columns_per_row": 2,
+        "text_alignment": "center",
+        "vertical_alignment": "top",
+        "section_padding_top": 30,
+        "section_padding_bottom": 30,
+        "colors": "light"
+      }
+    },
+    "interactive_menu_FyjWHy": {
+      "type": "interactive-menu",
+      "blocks": {
+        "menu_item_GnGgkr": {
+          "type": "menu_item",
+          "settings": {
+            "menu_item_text": "Step 1",
+            "menu_item_color": "#323131",
+            "menu_item_link": "",
+            "menu_item_image": "shopify:\/\/shop_images\/C79F0066-00B6-48D7-9137-1ABA838043B1.heic"
+          }
+        },
+        "menu_item_VwHLKV": {
+          "type": "menu_item",
+          "settings": {
+            "menu_item_text": "Step 2",
+            "menu_item_color": "#323131",
+            "menu_item_link": ""
+          }
+        },
+        "menu_item_w9RGVN": {
+          "type": "menu_item",
+          "settings": {
+            "menu_item_text": "Step 3",
+            "menu_item_color": "#323131",
+            "menu_item_link": ""
+          }
+        },
+        "menu_item_PRWRDR": {
+          "type": "menu_item",
+          "settings": {
+            "menu_item_text": "Step 4",
+            "menu_item_color": "#323131",
+            "menu_item_link": ""
+          }
+        },
+        "menu_item_fta3DT": {
+          "type": "menu_item",
+          "settings": {
+            "menu_item_text": "Get started",
+            "menu_item_color": "#323131",
+            "menu_item_link": "shopify:\/\/pages\/new-custom-design",
+            "menu_item_image": "shopify:\/\/shop_images\/C79F0066-00B6-48D7-9137-1ABA838043B1.heic"
+          }
+        }
+      },
+      "block_order": [
+        "menu_item_GnGgkr",
+        "menu_item_VwHLKV",
+        "menu_item_w9RGVN",
+        "menu_item_PRWRDR",
+        "menu_item_fta3DT"
+      ],
+      "disabled": true,
+      "settings": {
+        "min_height": "40vw",
+        "image_mobile": "shopify:\/\/shop_images\/C79F0066-00B6-48D7-9137-1ABA838043B1.heic",
+        "menu_position": "right",
+        "alignment_desktop": "right",
+        "alignment_mobile": "right",
+        "menu_items_color": "rgba(0,0,0,0)",
+        "menu_item_size": 40,
+        "colors": "light"
+      }
+    },
+    "image_with_text_overlay_bB4YHp": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_rkmrL9": {
+          "type": "heading",
+          "settings": {
+            "title": "Image with text overlay",
+            "font_size_desktop": 42,
+            "font_size_mobile": 28,
+            "heading_bottom_spacing": 25
+          }
+        },
+        "button_rEjx7d": {
+          "type": "button",
+          "settings": {
+            "first_button_link": "shopify:\/\/collections",
+            "first_button_label": "Shop now",
+            "second_button_link": "",
+            "second_button_label": "",
+            "buttons_style": "filled",
+            "buttons_bottom_spacing": 0,
+            "buttons_text": "#ffffff",
+            "buttons_background": "#242424"
+          }
+        },
+        "heading_HNmzX6": {
+          "type": "heading",
+          "settings": {
+            "title": "Image with text overlay",
+            "font_size_desktop": 28,
+            "font_size_mobile": 28,
+            "heading_bottom_spacing": 25
+          }
+        }
+      },
+      "block_order": [
+        "heading_rkmrL9",
+        "button_rEjx7d",
+        "heading_HNmzX6"
+      ],
+      "disabled": true,
+      "settings": {
+        "height_desktop": "450px",
+        "text_position_desktop": "left",
+        "text_alignment_desktop": "left",
+        "caption_width_desktop": 50,
+        "height_mobile": "400px",
+        "text_position_mobile": "bottom_center",
+        "text_alignment_mobile": "center",
+        "section_link": "",
+        "animation_style": "parallax",
+        "section_margin_top": 0,
+        "section_margin_bottom": 0,
+        "text_color": "#242424",
+        "caption_bg_color": "rgba(0,0,0,0)",
+        "image_overlay_color": "#ffffff",
+        "image_overlay_opacity": 0
+      }
+    },
+    "rich_text_HhnEUK": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_kjxgJ9": {
+          "type": "richtext",
+          "settings": {
+            "text": "<h2>Request a Custom design <\/h2>",
+            "text_size": 24
+          }
+        },
+        "richtext_iM3M7D": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>Do you want apparel for your group that everyone will love?<\/p>",
+            "text_size": 16
+          }
+        },
+        "button_YyGXUX": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/collections\/all",
+            "button_text": "Request your custom design",
+            "buttons_style": "filled"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_kjxgJ9",
+        "richtext_iM3M7D",
+        "button_YyGXUX"
+      ],
+      "settings": {
+        "section_width": "narrow",
+        "text_alignment_desktop": "center",
+        "text_alignment_mobile": "center",
+        "section_padding_top": 25,
+        "section_padding_bottom": 25,
+        "colors": "light"
+      }
+    },
+    "template_product_info_columns_nRHctK": {
+      "type": "template--product--info-columns",
+      "blocks": {
+        "image_and_text_banxeB": {
+          "type": "image_and_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/C79F0066-00B6-48D7-9137-1ABA838043B1.heic",
+            "grid_image_size": "square",
+            "heading": "Step 1",
+            "text": "<p>Share your unique vision with us for a custom design tailored to your needs.<\/p>",
+            "button_text": "Learn more",
+            "button_link": "shopify:\/\/pages\/design-request"
+          }
+        },
+        "image_and_text_eYft8f": {
+          "type": "image_and_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/B32376A4-AC16-4BB4-87D1-613D01ABE5A8.heic",
+            "grid_image_size": "square",
+            "heading": "Step 2",
+            "text": "<p>Our design team will provide you with a preliminary sketch to visualize your idea.<\/p><p><\/p>",
+            "button_text": "Learn more",
+            "button_link": "shopify:\/\/pages\/design-request"
+          }
+        },
+        "image_and_text_rr7Fad": {
+          "type": "image_and_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AC731B2C-166A-48E1-98E0-2B4FFDBCEB6A.heic",
+            "grid_image_size": "square",
+            "heading": "Step 3",
+            "text": "<p>Collaborate with our design team to refine and perfect the details of your custom design.<\/p>",
+            "button_text": "Learn more",
+            "button_link": "shopify:\/\/pages\/design-request"
+          }
+        },
+        "image_and_text_cGaTXz": {
+          "type": "image_and_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/C08D7E03-455D-4CDB-950E-78C563C9C22A.heic",
+            "grid_image_size": "square",
+            "heading": "Step 4",
+            "text": "<p>Once finalized, we will begin production, with delivery with in 2 weeks of payment<\/p>",
+            "button_text": "Learn more",
+            "button_link": "shopify:\/\/pages\/design-request"
+          }
+        }
+      },
+      "block_order": [
+        "image_and_text_banxeB",
+        "image_and_text_eYft8f",
+        "image_and_text_rr7Fad",
+        "image_and_text_cGaTXz"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "buttons_style": "underlined",
+        "columns_per_row": 4,
+        "text_alignment": "center",
+        "vertical_alignment": "top",
+        "section_padding_top": 0,
+        "section_padding_bottom": 60,
+        "colors": "white"
+      }
+    },
+    "scrolling_banner_rVUVpf": {
+      "type": "scrolling-banner",
+      "blocks": {
+        "image_e3U9pR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.png",
+            "height_desktop": 200,
+            "height_mobile": 176,
+            "link": "shopify:\/\/collections\/northeastern-og-collection"
+          }
+        },
+        "image_WtMj3C": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.png",
+            "height_desktop": 200,
+            "height_mobile": 176,
+            "link": ""
+          }
+        },
+        "image_AppepX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PNG_1_ac52b92b-2559-413d-8fe5-fac31db7d359.png",
+            "height_desktop": 200,
+            "height_mobile": 176,
+            "link": "shopify:\/\/collections\/harvard-1"
+          }
+        },
+        "image_9EXpfz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8.png",
+            "height_desktop": 200,
+            "height_mobile": 176,
+            "link": ""
+          }
+        },
+        "image_kfGCEg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_9bda046c-1f36-4949-ab17-9005a59b91ce.png",
+            "height_desktop": 200,
+            "height_mobile": 176,
+            "link": ""
+          }
+        },
+        "image_fQ6xP8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Princeton_Film_PNG_2.png",
+            "height_desktop": 200,
+            "height_mobile": 176,
+            "link": "shopify:\/\/collections\/princeton-film"
+          }
+        },
+        "image_yDiVcn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_48cd0c9f-687b-4cc3-8368-8461e8f87b70.png",
+            "height_desktop": 200,
+            "height_mobile": 176,
+            "link": ""
+          }
+        },
+        "image_JL3XBV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PNG_1_dad52a75-3872-4b46-8c98-9fb0fd25193e.png",
+            "height_desktop": 200,
+            "height_mobile": 176,
+            "link": "shopify:\/\/collections\/ut-austin"
+          }
+        },
+        "image_U9qj7F": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PNG_1_dd287d90-a15d-467a-8107-fcfdf682cbba.png",
+            "height_desktop": 200,
+            "height_mobile": 176,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_e3U9pR",
+        "image_WtMj3C",
+        "image_AppepX",
+        "image_9EXpfz",
+        "image_kfGCEg",
+        "image_fQ6xP8",
+        "image_yDiVcn",
+        "image_JL3XBV",
+        "image_U9qj7F"
+      ],
+      "settings": {
+        "show_fade": false,
+        "borders": true,
+        "animation_direction": "normal",
+        "animation_speed": 80,
+        "section_padding_top": 15,
+        "section_padding_bottom": 20,
+        "space_between_blocks_desktop": 20,
+        "space_between_blocks_mobile": 5,
+        "rotate": "0",
+        "color_scheme": "light"
+      }
+    },
+    "1bcb2084-3603-49fb-8ff6-b74289d1a401": {
+      "type": "collage",
+      "blocks": {
+        "9ea7668e-46f5-4362-9b49-7023aae3362f": {
+          "type": "image",
+          "settings": {
+            "heading": "",
+            "heading_size": 30,
+            "button_label": "Shop now",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-bottom md-min-justify-center",
+            "mobile_position": "md-max-align-bottom md-max-justify-center",
+            "text_color": "#262428",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        },
+        "50977ef2-97ba-49a9-ae56-9b5467581d21": {
+          "type": "image",
+          "settings": {
+            "heading": "",
+            "heading_size": 30,
+            "button_label": "Shop now",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-bottom md-min-justify-center",
+            "mobile_position": "md-max-align-bottom md-max-justify-center",
+            "text_color": "#262428",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        },
+        "8309f536-744c-4754-8328-b79d6b30e2e3": {
+          "type": "image",
+          "settings": {
+            "heading": "",
+            "heading_size": 30,
+            "button_label": "Shop now",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-bottom md-min-justify-center",
+            "mobile_position": "md-max-align-bottom md-max-justify-center",
+            "text_color": "#262428",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        },
+        "20d9b058-3d73-442c-8c2c-89651889769f": {
+          "type": "image",
+          "settings": {
+            "heading": "",
+            "heading_size": 30,
+            "button_label": "Shop now",
+            "url": "shopify:\/\/collections\/all",
+            "buttons_style": "filled",
+            "desktop_position": "md-min-align-bottom md-min-justify-center",
+            "mobile_position": "md-max-align-bottom md-max-justify-center",
+            "text_color": "#262428",
+            "button_color": "#e6e5e7",
+            "button_background_color": "#242424",
+            "overlay_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "9ea7668e-46f5-4362-9b49-7023aae3362f",
+        "50977ef2-97ba-49a9-ae56-9b5467581d21",
+        "8309f536-744c-4754-8328-b79d6b30e2e3",
+        "20d9b058-3d73-442c-8c2c-89651889769f"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "description": "",
+        "section_padding_top": 30,
+        "section_padding_bottom": 60,
+        "remove_spacing": false,
+        "section_width": "content",
+        "width_1": "4",
+        "height_1": "3",
+        "width_2": "4",
+        "height_2": "3",
+        "width_3": "4",
+        "height_3": "3",
+        "width_4": "4",
+        "height_4": "3",
+        "width_5": "2",
+        "height_5": "2",
+        "width_6": "1",
+        "height_6": "6",
+        "block_alignment": "center",
+        "color_scheme": "light"
+      }
+    },
+    "testimonials_yNFGX9": {
+      "type": "testimonials",
+      "blocks": {
+        "text_xe6Yqp": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>\"Everytime our club soccer team travels for away games we get asked where our hoodies are from. (It’s so nice to have interesting team merch for the first time.) When we went to visit Brown, both of our teams wore Crew Dog and there was something so united about that feeling.\"<\/p>",
+            "customer_name": "Brown Club Soccer",
+            "link": "",
+            "stars": 5
+          }
+        },
+        "text_49KyrW": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>“Every time I wore my Princeton Crew Dog sweater to a regatta I would have so many people come up to me and ask where I got it! I always referred them to you because they are so cute”<\/p>",
+            "customer_name": "Princeton Women's Crew",
+            "link": "",
+            "stars": 5
+          }
+        },
+        "text_pwbrxJ": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>\"This was the first time our crew team had a custom design made for them beyond the boring college-provided stuff. We are super happy and appreciate you guys working with smaller teams\"<\/p>",
+            "customer_name": "Leeds Crew Team",
+            "link": "",
+            "stars": 5
+          }
+        },
+        "text_dXyJ6w": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>\"Crew Dog helped me create a mascot for our team (which was much trickier than we thought). The design and ordering process was collaborative and straightforward, the founders are both Yale students and understand the collegiate clothing space”<\/p>",
+            "customer_name": "UT Austin Dance",
+            "link": "",
+            "stars": 5
+          }
+        }
+      },
+      "block_order": [
+        "text_xe6Yqp",
+        "text_49KyrW",
+        "text_pwbrxJ",
+        "text_dXyJ6w"
+      ],
+      "disabled": true,
+      "settings": {
+        "circle_images": true,
+        "title": "Testimonials",
+        "description": "",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "colors": "white"
+      }
+    },
+    "rich_text_eP4MNm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NRPdqE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Checkout our instagram",
+            "heading--text-size": 28
+          }
+        },
+        "button_TP84tT": {
+          "type": "button",
+          "settings": {
+            "button_link": "https:\/\/www.instagram.com\/crewdog.apparel\/?hl=en",
+            "button_text": "Follow us @crewdog.apparel",
+            "buttons_style": "filled"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NRPdqE",
+        "button_TP84tT"
+      ],
+      "settings": {
+        "section_width": "narrow",
+        "text_alignment_desktop": "center",
+        "text_alignment_mobile": "center",
+        "section_padding_top": 30,
+        "section_padding_bottom": 0,
+        "colors": "white"
+      }
+    },
+    "172133003689dfa128": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_BwxNLW": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/5c329ba9-407e-40ec-a145-431c886f5df9",
+          "settings": {
+            "heading_font": "mono",
+            "heading_size": 25,
+            "heading_alignment": "center",
+            "feed_width": 100,
+            "section_top_padding": 0,
+            "section_bottom_padding": 25,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_BwxNLW"
+      ],
+      "settings": {
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_kcywfX",
+    "animated_text_MC3Emx",
+    "c9763f42-0175-4b8c-b546-7950fe610c1f",
+    "rich_text_B4fxCx",
+    "rich_text_6atbiK",
+    "featured_collection_dbcjQM",
+    "rich_text_fgKFin",
+    "collage_zgj6XV",
+    "0fc6742c-1168-43e2-8978-750bb12b448b",
+    "interactive_menu_FyjWHy",
+    "image_with_text_overlay_bB4YHp",
+    "rich_text_HhnEUK",
+    "template_product_info_columns_nRHctK",
+    "scrolling_banner_rVUVpf",
+    "1bcb2084-3603-49fb-8ff6-b74289d1a401",
+    "testimonials_yNFGX9",
+    "rich_text_eP4MNm",
+    "172133003689dfa128"
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "sections": {
+    "slideshow_wxgiCr": {
+      "type": "slideshow",
+      "blocks": {
+        "image_GQK3xb": {
+          "type": "image",
+          "settings": {
+            "title": "College Collections",
+            "text": "Say goodbye to boring apparel",
+            "first_button_label": "Shop now",
+            "first_button_link": "shopify:\/\/collections\/all",
+            "second_button_label": "Learn more",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#262428",
+            "image_overlay_opacity": 0,
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#242424"
+          }
+        },
+        "image_WNTUGJ": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your \ntop earners",
+            "text": "Showcase key products or collections to maximise your profits",
+            "first_button_label": "Shop now",
+            "first_button_link": "shopify:\/\/collections\/all",
+            "second_button_label": "Learn more",
+            "second_button_link": "",
+            "buttons_style": "filled",
+            "desktop-caption-heading-size": 60,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#262428",
+            "image_overlay_opacity": 0,
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#242424"
+          }
+        }
+      },
+      "block_order": [
+        "image_GQK3xb",
+        "image_WNTUGJ"
+      ],
+      "disabled": true,
+      "settings": {
+        "slide_transition_delay": 6,
+        "slide_navigation_style": "bars",
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "desktop_height": "large",
+        "mobile_height": "extra_large"
+      }
+    },
+    "main": {
+      "type": "template--page",
+      "disabled": true,
+      "settings": {
+        "page_title_enabled": true,
+        "page_width": "full-width"
+      }
+    },
+    "text_adverts_xxwaE9": {
+      "type": "text-adverts",
+      "blocks": {
+        "text_4akYY6": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        },
+        "text_EEMp66": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        },
+        "text_TCqizx": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_4akYY6",
+        "text_EEMp66",
+        "text_TCqizx"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_padding_top": 0,
+        "section_padding_bottom": 0,
+        "colors": "light"
+      }
+    },
+    "rich_text_dn48kx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rTFPd9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Terms of service",
+            "heading--text-size": 50
+          }
+        },
+        "richtext_J7HfyQ": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p><strong>Please review these Terms of Use carefully before using the crew-dog.com website (the \"Site\"). By accessing this Site, you agree to be bound by these Terms of Use. These Terms of Use may be updated periodically. Therefore, please check the date of the Terms of Use (located at the end of this document) and review any changes since the last version. If you do not agree to these Terms of Use at any time, please refrain from using this Site. This Site is operated by Crew Dog LLC. (\"Crew Dog\"). Throughout the Site, the terms \"we\", \"us\" and \"our\" refer to Crew Dog. Crew Dog provides this Site, including all information, tools, and services available from this Site, to you, the user, conditioned upon your acceptance of all the terms, conditions, policies, and notices stated here. Your continued use of this Site constitutes your agreement to these Terms of Use.<\/strong><\/p><h3>ACCURACY, COMPLETENESS, AND TIMELINESS OF INFORMATION ON THIS SITE<\/h3><p>We are not liable if information available on this Site is inaccurate, incomplete, or not current. The material on this Site is provided for general information only and should not be solely relied upon for decision-making without consulting primary, more accurate, more complete, or more timely sources of information. Any reliance on the material on this Site is at your own risk. This Site may contain certain historical information. Historical information may not be current and is provided for reference only. We reserve the right to modify the contents of this Site at any time, but we are not obligated to update any information on the Site. You agree that it is your responsibility to monitor changes to the Site. Please note that many of our products are handmade, and therefore, the product you receive may vary slightly from those depicted on our site.<\/p><h3>ORDERS, PROHIBITION ON RESELLING, AND PRICING<\/h3><p>The information on this Site does not constitute a binding offer to sell products described on the Site or to make such products available in your area. We reserve the right at any time after receiving your order to accept or decline your order, or any portion thereof, at our sole discretion, even after your receipt of an order confirmation or after your credit card has been charged. You may not purchase any item from this Site for resale by you or any other person, and you may not resell any item purchased from this Site. The prices displayed on the Site are quoted in U.S. dollars. In the event a product is listed at an incorrect price, we have the right to refuse or cancel orders placed for the product listed at the incorrect price, regardless of whether the order has been confirmed or your credit card charged. If your credit card has already been charged for the purchase and your order is canceled, we will issue a credit to your credit card account.<\/p><h3>USE OF MATERIAL ON THE SITE<\/h3><p>All content on this Site (including, without limitation, text, design, graphics, logos, icons, images, audio clips, downloads, interfaces, code, and software, as well as the selection and arrangement thereof), is the exclusive property of and owned by Crew Dog, its licensors, or its content providers and is protected by copyright, trademark, and other applicable laws. You may access, copy, download, and print the material contained on the Site for your personal and non-commercial use, provided you do not modify or delete any copyright, trademark, or other proprietary notice that appears on the material you access, copy, download, or print. Any other use of content on the Site, including but not limited to the modification, distribution, transmission, performance, broadcast, publication, uploading, licensing, reverse engineering, transfer, or sale of, or the creation of derivative works from, any material, information, software, products, or services obtained from the Site, or use of the Site for purposes competitive to Crew Dog, is expressly prohibited. Crew Dog reserves the right to refuse or cancel any person's registration for this Site, remove any person from this Site, or prohibit any person from using this Site for any reason whatsoever. Crew Dog, or its licensors or content providers, retain full and complete title to the material provided on the Site, including all associated intellectual property rights, and provide this material to you under a license that is revocable at any time in Crew Dog's sole discretion. Crew Dog neither warrants nor represents that your use of materials on this Site will not infringe rights of third parties not affiliated with Crew Dog. You may not use contact information provided on the Site for unauthorized purposes, including marketing. You may not use any hardware or software intended to damage or interfere with the proper working of the Site or to surreptitiously intercept any system, data, or personal information from the Site. You agree not to interrupt or attempt to interrupt the operation of the Site in any way. Crew Dog reserves the right, in its sole discretion, to limit or terminate your access to or use of the Site at any time without notice. You are personally liable for any orders that you place or charges or other liabilities that you incur prior to termination. Termination of your access or use will not waive or affect any other right or relief to which Crew Dog may be entitled, at law or in equity.<\/p><h3>LINKS<\/h3><p>This Site may contain links to other websites, some of which are operated by third parties. These links are provided as a convenience to you and as an additional avenue of access to the information contained therein. We have not necessarily reviewed all the information on those other sites and are not responsible for the content of those or any other sites or any products or services that may be offered through those or any other sites. Inclusion of links to other sites should not be viewed as an endorsement of the content of linked sites. Different terms and conditions may apply to your use of any linked sites. Crew Dog is not responsible for any losses, damages, or other liabilities incurred as a result of your use of any linked sites.<\/p><h3>TEXT MESSAGES<\/h3><p>If you choose to receive marketing text messages from us, either via our website or by sending a text message indicating your consent, you are providing your prior express written consent to receive recurring marketing or promotional text messages from us (each, a “Text Message”) sent through an automatic telephone dialing system. These may include cart abandon messages. Message frequency varies. This service is optional and is not a condition for purchase. You can opt out of receiving any further Text Messages from us at any time by replying “STOP” to any Text Message you receive from us. For help, reply “HELP” to any Text Message you receive from us or email customerservice@crew-dog.com. In addition to any fee of which you are notified, your mobile provider’s message and data rates may apply to our confirmation Text Message and all subsequent Text Message correspondence according to your individual rate plan provided by your wireless carrier. Please consult your mobile service carrier’s pricing plan to determine the charges for browsing data and sending and receiving Text Messages. Under no circumstances will we or our affiliates be responsible for any Text messaging or wireless charges incurred by you or by a person that has access to your wireless device or telephone number. If your carrier does not permit Text messages, you may not receive the Text Messages. Neither we nor the wireless carriers (such as T-Mobile) will be liable for any delays in the receipt of, or failure to deliver, any Text Messages, as delivery is subject to effective transmission from your network operator. Text Message services are provided on an “AS IS” basis. Data obtained from you in connection with any Text Message services may include your cell phone number, your provider’s name and the date, time and content of your text messages. We may use this information in accordance with our Privacy Policy to contact you and to provide the services you request from us. For more information on how we use telephone numbers, please read our Privacy Policy.<\/p><h2>INFRINGEMENT NOTICE<\/h2><p>We respect the intellectual property rights of others and request that you do the same. If you think your work has been copied in a manner that constitutes copyright infringement, you may notify our Legal Department, who can be reached at: customerservice@crew-dog.com<\/p><h2>ENTIRE AGREEMENT AND ADMISSIBILITY<\/h2><p>This agreement and any policies or operating rules posted on this Site constitute the entire agreement and understanding between you and Crew Dog with respect to the subject matter thereof and supersede all prior or contemporaneous communications and proposals, whether oral or written, between the parties with respect to such subject matter. A printed version of these Terms of Use shall be admissible in judicial or administrative proceedings based on or relating to use of the Site to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form. Severability If any provision of this agreement is unlawful, void or unenforceable, the remaining provisions of the agreement will remain in place.<\/p>",
+            "text_size": 14
+          }
+        }
+      },
+      "block_order": [
+        "heading_rTFPd9",
+        "richtext_J7HfyQ"
+      ],
+      "settings": {
+        "section_width": "full-width",
+        "text_alignment_desktop": "left",
+        "text_alignment_mobile": "left",
+        "section_padding_top": 60,
+        "section_padding_bottom": 60,
+        "colors": "white"
+      }
+    }
+  },
+  "order": [
+    "slideshow_wxgiCr",
+    "main",
+    "text_adverts_xxwaE9",
+    "rich_text_dn48kx"
+  ]
+}
